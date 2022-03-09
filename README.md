@@ -1,5 +1,5 @@
-# Project Name
-> Lending Club Data Analysis: Case Study.
+# Lending Club Case Study
+> Lending Club Data Analysis: A Case Study.
 
 
 ## Table of Contents
